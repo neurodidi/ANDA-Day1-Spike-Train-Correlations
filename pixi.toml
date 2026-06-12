@@ -25,7 +25,7 @@ elephant = ">=1.2.0, <2"
 #### Jupyter Kernel
 
 [tasks]
-install-kernel = "python -m ipykernel install --user --name andani"
+install-kernel = "python -m ipykernel install --user --name anda-d1"
 
 ### Jupyter Lab Environment (pixi run jupyter) #############
 
