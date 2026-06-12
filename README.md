@@ -12,6 +12,7 @@
     - Michael Denker, Forchungszentrum Jülich, Germany
     - Cristiano Köhler, Forchungszentrum Jülich, Germany
     - Tobias Michels, Forchungszentrum Jülich, Germany
+    - Atle E. Rimehaug, Uni Bon, Germany
     - Julio Rodino, Forchungszentrum Jülich, Germany
  
 
@@ -39,36 +40,6 @@ and firing-rate stationarity.
 The aim is not to treat these methods as black boxes. You will change
 parameters, compare results and build an intuition for what each analysis can
 and cannot tell us.
-
-## Before the Session
-
-### 1. Clone this Git Repository
-
-`git clone https://github.com/ANDA-NI-2026/ANDA-Day1-Spike-Train-Correlations.git`
-
-### 2. Set up your Python Environment
-
-`pixi run install-kernel`
-
-### 3. Open the Repo in VS Code or Jupyter Lab
-
-For jupyer lab: `pixi run jupyter`. After JupyterLab opens, select the `anda-d1` kernel.
-
-### 4. Complete the Homework
-
-Please complete the exercises in the jupyter notebook in `01_homework`.  
-
-Basic familiarity with Python, NumPy and Matplotlib is enough. We will introduce relevant parts of the neuroscience-specific packages `Neo`, `Elephant`, `quantities` and `Viziphant` throughout the exercises.
-
-### 5. Submit the Homework
-
-
-Once it's complete (or, at least, you've made a solid attempt to complete at least 75% of it, even if you got stuck), please prefix your last name to the filename (e.g. Homer Simpson would make "`simpson_01_homework.ipynb`") and send it to  the day's dropbox at https://uni-bonn.sciebo.de/s/pLsAYmGW5zLnnHR.
-
-
-
-##  Come to the Session!
-
 The rest of the day's materials, including exercise, notebooks, datasets, and solutions will appear in this repo during the session.  Just call `git pull` and you'll get the updates.
 
 See you there!
