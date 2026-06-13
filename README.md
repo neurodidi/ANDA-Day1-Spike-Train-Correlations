@@ -12,7 +12,7 @@
     - Michael Denker, Forchungszentrum Jülich, Germany
     - Cristiano Köhler, Forchungszentrum Jülich, Germany
     - Tobias Michels, Forchungszentrum Jülich, Germany
-    - Atle E. Rimehaug, Uni Bon, Germany
+    - Atle E. Rimehaug, Uni Bonn, Germany
     - Julio Rodino, Forchungszentrum Jülich, Germany
  
 
