@@ -10,6 +10,7 @@ version = "0.1.0"
 [dependencies]
 python = "3.13.*"
 ipykernel = ">=7.2.0,<8"
+pip = ">=26.1.2,<27"
 
 [pypi-dependencies]
 matplotlib = ">=3.10.9,<4"
@@ -21,6 +22,7 @@ neo = ">=0.14.4, <0.15"
 nixio = ">=1.5.4, <2"
 viziphant = ">=0.4.0, <0.5"
 elephant = ">=1.2.0, <2"
+pyocclient = ">=0.6, <0.7"
 
 #### Jupyter Kernel
 
