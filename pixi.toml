@@ -13,7 +13,7 @@ ipykernel = ">=7.2.0,<8"
 pip = ">=26.1.2,<27"
 
 [pypi-dependencies]
-matplotlib = ">=3.10.9,<4"
+matplotlib = ">=3.10.9,<4"  # Actually should be <3.8, because of a viziphant bug that comes up at the end of the last tutorial.
 numpy = ">=2.4.6,<3"
 pandas = ">=3.0.3,<4"
 scikit-learn = ">=1.9.0,<2"
