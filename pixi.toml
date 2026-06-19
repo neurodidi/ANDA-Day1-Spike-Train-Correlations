@@ -9,7 +9,7 @@ version = "0.1.0"
 
 [dependencies]
 python = "3.13.*"
-ipykernel = ">=7.2.0,<8"
+ipykernel = ">=7.3.0,<8"
 pip = ">=26.1.2,<27"
 
 [pypi-dependencies]
